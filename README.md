@@ -25,4 +25,5 @@ Create a new environment
 conda create -p venv python==3.10.9 -y
 '''
 ## Deployment
+![Screenshot (47)](https://github.com/shankargpande75/ITSM-incident-management/assets/154117576/459274eb-7652-44ed-b50b-af91e2edd133)
 
