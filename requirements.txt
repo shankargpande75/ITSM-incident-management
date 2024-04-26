@@ -1,5 +1,6 @@
-Flask 
-sklearn
+Flask
+sklearn 
+numpy
 pandas
 numpy
 matplotlib
